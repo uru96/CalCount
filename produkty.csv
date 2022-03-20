@@ -1,0 +1,13 @@
+Product_name,raw_kcal,cooked_kcal,must_be_cooked,unit
+ziemniak,75,66,TRUE,g
+makaron ciemny,345,156,TRUE,g
+jogurt naturalny,70,,FALSE,g
+ryz brazowy,341,112,TRUE,g
+kasza peczak-jeczmienna,350,123,TRUE,g
+kasza gryczana,340,100,TRUE,g
+platki owsiane,363,,FALSE,g
+mleko,44,,FALSE,ml
+musli orzechowe,400,,FALSE,g
+jajko,75,,FALSE,g
+jajko smazone,75,110,TRUE,g
+jajko ugotowane,75,93,TRUE,g
